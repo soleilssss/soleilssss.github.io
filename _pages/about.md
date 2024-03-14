@@ -30,7 +30,7 @@ News
 Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
 [<font size=3> SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10457551)  
-<font size=3>IEEE Journal of Biomedical and Health Informatics 2024 </font>[[code]](https://github.com/gardnerzhou/SBCNet)  
+IEEE Journal of Biomedical and Health Informatics 2024 [code](https://github.com/gardnerzhou/SBCNet)  
 **<font size=3> Kai-Ni Wang </font>** <font size=3>, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen </font>   
 
 [<font size=3> Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes </font>](https://ieeexplore.ieee.org/abstract/document/10229145)  
