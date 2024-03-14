@@ -10,10 +10,9 @@ redirect_from:
 
 Research Interests
 ======
-<font size=3>
-My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.   <br>
+<font size=3> My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.  </font>  
 
-If you are interested, please feel free to email me.</font>
+<font size=3> If you are interested, please feel free to email me. </font>
 
 News
 ======
@@ -58,8 +57,7 @@ Representative Publications [[Google Scholar]](https://scholar.google.com.hk/cit
 
 Selected Publications
 ------
-[<font size=3> SC-SSL: Self-correcting Collaborative and Contrastive Co-training Model for Semi-Supervised Medical Image Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10328616)  
-<font size=3>Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font> 
+[<font size=3> SC-SSL: Self-correcting Collaborative and Contrastive Co-training Model for Semi-Supervised Medical Image Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10328616)<br><font size=3>Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font> 
  
  *<font size=3>IEEE Transactions on Medical Imagings</font>* <font size=3>2023</font>
 
