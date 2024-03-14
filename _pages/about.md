@@ -6,11 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3>
 I am currently a fourth-year Ph.D. student at Southeast University supervised by 
-  size=3</font>
-[<font size=3> Guangquan Zhou size=3</font>](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm). <font size=3> As a visiting student, I was also mentored by Professor   size=3</font> [<font size=3> Shuo Li size=3</font>](http://digitalimaginggroup.ca/members/shuo.php) <font size=3> of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc.
-size=3</font>
+[Guangquan Zhou](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm).  As a visiting student, I was also mentored by Professor  [ Shuo Li](http://digitalimaginggroup.ca/members/shuo.php) of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc.
 
 Research Interests
 ======
