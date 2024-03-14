@@ -13,9 +13,9 @@ Research Interests
 ======
 <font size=3>
 My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning. 
-</font>
 
 If you are interested, please feel free to email me. 
+</font>
 
 News
 ======
