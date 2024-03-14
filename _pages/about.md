@@ -6,15 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a fourth-year Ph.D. student at Southeast University supervised by </font> [<font size=3> Guangquan Zhou </font>](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm). <font size=3> As a visiting student, I was also mentored by Professor </font> [<font size=3> Shuo Li </font>](http://digitalimaginggroup.ca/members/shuo.php) <font size=3> of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc. </font>
+<font size=3> I am currently a fourth-year Ph.D. student at Southeast University supervised by </font> [<font size=3> Guangquan Zhou </font>](https://bme.seu.edu.cn/2017/0912/c463a197034/page.psp). <font size=3> As a visiting student, I was also mentored by Professor </font> [<font size=3> Shuo Li </font>](http://digitalimaginggroup.ca/members/shuo.php) <font size=3> of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc. </font>
 
 Research Interests
 ======
 <font size=3>
 My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.   <br>
 
-If you are interested, please feel free to email me.  <br>
-</font>
+If you are interested, please feel free to email me.</font>  <br>
 
 News
 ======
@@ -31,14 +30,12 @@ News
 Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
 [<font size=3> SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10457551)  
-**<font size=3> Kai-Ni Wang </font>** <font size=3>, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen </font>  
-<font size=3>IEEE Journal of Biomedical and Health Informatics 2024</font>[[code]](https://github.com/gardnerzhou/SBCNet)  
+<font size=3>IEEE Journal of Biomedical and Health Informatics 2024 </font>[[code]](https://github.com/gardnerzhou/SBCNet)  
+**<font size=3> Kai-Ni Wang </font>** <font size=3>, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen </font>   
 
 [<font size=3> Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes </font>](https://ieeexplore.ieee.org/abstract/document/10229145)  
 **<font size=3> Kai-Ni Wang </font>** <font size=3>, Shuaishuai Zhuang, Juzheng Miao, Yang Chen, Jie Hua, Guang-Quan Zhou, Xiaopu He, Shuo Li</font>  
 <font size=3> IEEE Journal of Biomedical and Health Informatics 2023</font>[<font size=3>code</font>](https://github.com/soleilssss/AFACNet)  
-
-
 
 
 Create content & metadata
