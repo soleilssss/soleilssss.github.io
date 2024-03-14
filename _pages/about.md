@@ -37,7 +37,7 @@ Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations
 
 [<font size=3> Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes </font>](https://ieeexplore.ieee.org/abstract/document/10229145)  
 **<font size=3> Kai-Ni Wang </font>** <font size=3>, Shuaishuai Zhuang, Juzheng Miao, Yang Chen, Jie Hua, Guang-Quan Zhou, Xiaopu He, Shuo Li</font>  
-<font size=3> IEEE Journal of Biomedical and Health Informatics 2023</font>[<font size=3>code</font>](https://github.com/soleilssss/AFACNet)  
+*<font size=3> IEEE Journal of Biomedical and Health Informatics 2023</font>* [<font size=3>[code]</font>](https://github.com/soleilssss/AFACNet)  
 
 
 Create content & metadata
