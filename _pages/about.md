@@ -18,15 +18,14 @@ News
 ======
 - [03/2024] One paper was accepted by JBHI.
 - [11/2024] One paper was accepted by TMI.
-- [10/2023] I won the "Wu Jianxiong Memorial Fund Female Scholars Program" with the highest educational scholarship of Southeast University (only 10 students in the whole school per year)
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
-- [03/2024] One paper was accepted by JBHI.
+- [10/2023] I won the "Wu Jianxiong Memorial Fund Female Scholars Program" with the highest educational scholarship of Southeast University (only 10 students in the school each year)
+- [09/2023] One paper was accepted by JBHI.
+- [08/2023] One paper was accepted by CBIM.
+- [07/2023] One paper was accepted by JBHI.
+- [03/2023] One paper was accepted by MedIA.
+- [03/2023] One paper was accepted by JBHI.
+- [09/2022] One paper was accepted by MICCAI.
+- [04/2022] One paper was accepted by MedIA.
 
 Site-wide configuration
 ------
