@@ -27,6 +27,13 @@ News
 - <font size=3> [09/2022] One paper was accepted by MICCAI. </font>
 - <font size=3> [04/2022] One paper was accepted by MedIA. </font>
 
+Awards and Honors
+======
+- 2023, Wu Jianxiong Memorial Fund Female Scholars Program (吴健雄纪念基金女学人计划, 10 students in SEU each year)
+- 2022, 2023, National Scholarship for Ph.D student (Top 1% in SEU)
+- 2022, 2023, Merit student of Southeast University
+- 2022, 2023, First-class Academic Scholarship
+
 Representative Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
 [<font size=3> SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10457551)  
