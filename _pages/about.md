@@ -52,9 +52,9 @@ Representative Publications [[Google Scholar]](https://scholar.google.com.hk/cit
 Selected Publications
 ------
 [<font size=3> SC-SSL: Self-correcting Collaborative and Contrastive Co-training Model for Semi-Supervised Medical Image Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10328616)  
-
-Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou, **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font>  
-*<font size=3>IEEE Transactions on Medical Imagings</font>* <font size=3>2023</font>
+<font size=3>Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font> 
+ 
+ *<font size=3>IEEE Transactions on Medical Imagings</font>* <font size=3>2023</font>
 
 
 
