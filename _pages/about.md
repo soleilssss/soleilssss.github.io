@@ -13,24 +13,24 @@ Research Interests
 ======
 <font size=3>
 My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning. 
+</font>
 
+<font size=3>
 If you are interested, please feel free to email me. 
 </font>
 
 News
 ======
-<font size=3>
-- [03/2024] One paper was accepted by JBHI.
-- [11/2023] One paper was accepted by TMI.
-- [10/2023] I won the "Wu Jianxiong Memorial Fund Female Scholars Program" with the highest educational scholarship of Southeast University (only 10 students in the school each year)
-- [09/2023] One paper was accepted by JBHI.
-- [08/2023] One paper was accepted by CBIM.
-- [07/2023] One paper was accepted by JBHI.
-- [03/2023] One paper was accepted by MedIA.
-- [03/2023] One paper was accepted by JBHI.
-- [09/2022] One paper was accepted by MICCAI.
-- [04/2022] One paper was accepted by MedIA.
-</font>
+- <font size=3> [03/2024] One paper was accepted by JBHI. </font>
+- <font size=3> [11/2023] One paper was accepted by TMI. </font>
+- <font size=3> [10/2023] I won the "Wu Jianxiong Memorial Fund Female Scholars Program" with the highest educational scholarship of Southeast University (only 10 students in the school each year) </font>
+- <font size=3> [09/2023] One paper was accepted by JBHI. </font>
+- <font size=3> [08/2023] One paper was accepted by CBIM. </font>
+- <font size=3> [07/2023] One paper was accepted by JBHI. </font>
+- <font size=3> [03/2023] One paper was accepted by MedIA. </font>
+- <font size=3> [03/2023] One paper was accepted by JBHI. </font>
+- <font size=3> [09/2022] One paper was accepted by MICCAI. </font>
+- <font size=3> [04/2022] One paper was accepted by MedIA. </font>
 
 Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
