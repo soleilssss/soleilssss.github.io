@@ -13,9 +13,7 @@ Research Interests
 ======
 <font size=3>
 My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.   <br>
-</font>
-<br>
-<font size=3>
+
 If you are interested, please feel free to email me. 
 </font>
 
@@ -33,11 +31,11 @@ News
 
 Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
-[SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation](https://ieeexplore.ieee.org/abstract/document/10457551)  
+[<font size=3> **SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation** </font>](https://ieeexplore.ieee.org/abstract/document/10457551)  
 
-Kai-Ni Wang, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen  
+<font size=3> **Kai-Ni Wang**, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen   </font>
 
-IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet) 
+<font size=3> IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet)  <font size=3>
 
 
 
