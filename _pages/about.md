@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ======
-<font size=3> My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.  </font>  <br> 🌟 **<font size=3> If you are interested, please feel free to email me. </font>** 🌟
+<font size=3> My research interests are **medical image analysis, computer vision, reinforcement learning and multimodal learning**. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.  </font>  <br> 🌟 **<font size=3> If you are interested, please feel free to email me. </font>** 🌟
 
 News
 ======
@@ -26,8 +26,8 @@ News
 
 Awards and Honors
 ======
-- <font size=3> 2023, Wu Jianxiong Memorial Fund Female Scholars Program (<font color='red'>吴健雄纪念基金女学人计划, 10 students in SEU each year </font>) </font>
-- <font size=3> 2022, 2023, National Scholarship for Ph.D student (Top 1% in SEU) </font>
+- <font size=3> 2023, Wu Jianxiong Memorial Fund Female Scholars Program (**吴健雄纪念基金女学人计划, 10 students in SEU each year**) </font>
+- <font size=3> 2022, 2023, National Scholarship for Ph.D student (**Top 1% in SEU**) </font>
 - <font size=3> 2022, 2023, Merit student of Southeast University </font>
 - <font size=3> 2022, 2023, First-class Academic Scholarship </font>
 
