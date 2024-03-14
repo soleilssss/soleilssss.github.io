@@ -37,6 +37,10 @@ Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations
 **<font size=3> Kai-Ni Wang </font>** <font size=3>, Shuaishuai Zhuang, Juzheng Miao, Yang Chen, Jie Hua, Guang-Quan Zhou, Xiaopu He, Shuo Li</font>  
 *<font size=3> IEEE Journal of Biomedical and Health Informatics</font>* <font size=3>2023</font> [<font size=3>[code]</font>](https://github.com/soleilssss/AFACNet)  
 
+[<font size=3> DLGNet: A dual-branch lesion-aware network with the supervised Gaussian Mixture model for colon lesions classification in colonoscopy images </font>](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000920)  
+**<font size=3> Kai-Ni Wang </font>** <font size=3>, Shuaishuai Zhuang, Qi-Yong Ran, Ping Zhou, Jie Hua, Guang-Quan Zhou, Xiaopu He</font>  
+*<font size=3> Medical Image Analysis</font>* <font size=3>2023</font> [<font size=3>[code]</font>](https://github.com/soleilssss/DLGNet)  
+
 
 Create content & metadata
 ------
