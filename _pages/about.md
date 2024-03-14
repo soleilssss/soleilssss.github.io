@@ -57,9 +57,11 @@ Representative Publications [[Google Scholar]](https://scholar.google.com.hk/cit
 
 Selected Publications
 ------
-[<font size=3> SC-SSL: Self-correcting Collaborative and Contrastive Co-training Model for Semi-Supervised Medical Image Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10328616)<br><font size=3>Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font> 
- 
- *<font size=3>IEEE Transactions on Medical Imagings</font>* <font size=3>2023</font>
+[<font size=3> SC-SSL: Self-correcting Collaborative and Contrastive Co-training Model for Semi-Supervised Medical Image Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10328616)<br><font size=3>Juzheng Miao, Si-Ping Zhou, Guang-Quan Zhou,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Meng Yang, ShouJun Zhou, Yang Chen</font> <br> *<font size=3>IEEE Transactions on Medical Imagings</font>* <font size=3>2023</font>
+
+[<font size=3> DSANet: Dual-branch shape-aware network for echocardiography segmentation in apical views </font>](https://ieeexplore.ieee.org/abstract/document/10176360)<br><font size=3>Guang-Quan Zhou, Wen-Bo Zhang, Zhong-Qing Shi, Zhan-Ru Qi,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Hong Song, Jing Yao, Yang Chen</font> <br> *<font size=3>IEEE Journal of Biomedical and Health Informatics</font>* <font size=3>2023</font>
+
+[<font size=3> Automatic myotendinous junction identification in ultrasound images based on junction-based template measurements </font>](https://ieeexplore.ieee.org/abstract/document/10016656)<br><font size=3>Guang-Quan Zhou, Shi-Hao Hua, Yikang He,</font> **<font size=3> Kai-Ni Wang </font>** <font size=3>, Dandan Zhou, Hongxing Wang, Ruoli Wang</font> <br> *<font size=3>IEEE Transactions on Neural Systems and Rehabilitation Engineering</font>* <font size=3>2023</font>
 
 
 
