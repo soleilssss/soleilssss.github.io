@@ -16,14 +16,6 @@ If you are interested, please feel free to email me.
 
 News
 ======
-<style>
-pre {
-  overflow-y: auto;
-  max-height: 50px;
-}
-</style>
-
-'''css
 - [03/2024] One paper was accepted by JBHI.
 - [11/2023] One paper was accepted by TMI.
 - [10/2023] I won the "Wu Jianxiong Memorial Fund Female Scholars Program" with the highest educational scholarship of Southeast University (only 10 students in the school each year)
@@ -34,10 +26,8 @@ pre {
 - [03/2023] One paper was accepted by JBHI.
 - [09/2022] One paper was accepted by MICCAI.
 - [04/2022] One paper was accepted by MedIA.
-'''
 
-
-Site-wide configuration
+Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
