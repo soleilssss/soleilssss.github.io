@@ -19,7 +19,7 @@ News
 <style>
 pre {
   overflow-y: auto;
-  max-height: 200px;
+  max-height: 50px;
 }
 </style>
 
