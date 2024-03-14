@@ -29,10 +29,10 @@ News
 
 Awards and Honors
 ======
-- 2023, Wu Jianxiong Memorial Fund Female Scholars Program (吴健雄纪念基金女学人计划, 10 students in SEU each year)
-- 2022, 2023, National Scholarship for Ph.D student (Top 1% in SEU)
-- 2022, 2023, Merit student of Southeast University
-- 2022, 2023, First-class Academic Scholarship
+- <font size=3> 2023, Wu Jianxiong Memorial Fund Female Scholars Program (吴健雄纪念基金女学人计划, 10 students in SEU each year) </font>
+- <font size=3> 2022, 2023, National Scholarship for Ph.D student (Top 1% in SEU) </font>
+- <font size=3> 2022, 2023, Merit student of Southeast University </font>
+- <font size=3> 2022, 2023, First-class Academic Scholarship </font>
 
 Representative Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
