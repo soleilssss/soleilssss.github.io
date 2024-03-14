@@ -6,15 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=3> I am currently a fourth-year Ph.D. student at Southeast University supervised by </font>
-[<font size=3> Guangquan Zhou </font>](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm).  <font size=3> As a visiting student, I was also mentored by Professor </font> [<font size=3> Shuo Li </font>](http://digitalimaginggroup.ca/members/shuo.php) <font size=3> of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc. </font>
+<font size=3> I am currently a fourth-year Ph.D. student at Southeast University supervised by </font> [<font size=3> Guangquan Zhou </font>](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm). <font size=3> As a visiting student, I was also mentored by Professor </font> [<font size=3> Shuo Li </font>](http://digitalimaginggroup.ca/members/shuo.php) <font size=3> of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc. </font>
 
 Research Interests
 ======
 <font size=3>
 My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.   <br>
 
-If you are interested, please feel free to email me. 
+If you are interested, please feel free to email me.  <br>
 </font>
 
 News
