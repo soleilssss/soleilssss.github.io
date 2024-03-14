@@ -31,9 +31,12 @@ News
 
 Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=nMRUtZsAAAAJ&hl=zh-CN)
 ------
-[SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation](https://ieeexplore.ieee.org/abstract/document/10457551)
-Kai-Ni Wang, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen
-IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet)
+[SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation](https://ieeexplore.ieee.org/abstract/document/10457551)  
+
+Kai-Ni Wang, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen  
+
+IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet)  \
+
 
 
 
