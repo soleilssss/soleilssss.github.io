@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year Ph.D. student at Southeast University supervised by [Guangquan Zhou](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm). As a visiting student, I was also mentored by Professor [Li Shuo](http://digitalimaginggroup.ca/members/shuo.php) of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc.
+I am currently a fourth-year Ph.D. student at Southeast University supervised by [Guangquan Zhou](https://bme.seu.edu.cn/2017/0912/c463a197034/page.htm). As a visiting student, I was also mentored by Professor [Shuo Li](http://digitalimaginggroup.ca/members/shuo.php) of Case Western Reserve University. I have published a total of 3 Chinese patents and 15 peer-reviewed journal/conference articles, including MediA, TMI, J-BHI, MICCAI, etc.
 
 Research Interests
 ======
@@ -19,9 +19,10 @@ News
 <style>
 pre {
   overflow-y: auto;
-  max-height: 300px;
+  max-height: 200px;
 }
 </style>
+
 '''css
 - [03/2024] One paper was accepted by JBHI.
 - [11/2023] One paper was accepted by TMI.
