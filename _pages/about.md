@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ======
-<font size=3> My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.  </font>  <br> **<font size=3> If you are interested, please feel free to email me. </font>** 🌟
+<font size=3> My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.  </font>  <br> 🌟 **<font size=3> If you are interested, please feel free to email me. </font>** 🌟
 
 News
 ======
@@ -35,23 +35,23 @@ Representative Publications [[Google Scholar]](https://scholar.google.com.hk/cit
 ------
 [<font size=3> SBCNet: Scale and Boundary Context Attention Dual-branch Network for Liver Tumor Segmentation </font>](https://ieeexplore.ieee.org/abstract/document/10457551)  
 **<font size=3> Kai-Ni Wang</font>** <font size=3>, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen </font>  
-*<font size=3> IEEE Journal of Biomedical and Health Informatics </font>* **<font size=3>(JBHI) </font>** <font size=3>, 2024</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/gardnerzhou/SBCNet) 
+*<font size=3> IEEE Journal of Biomedical and Health Informatics </font>* **<font size=3>(JBHI) </font>** <font size=3>, 2024</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/gardnerzhou/SBCNet) 😻
 
 [<font size=3> Adaptive Frequency Learning Network With Anti-Aliasing Complex Convolutions for Colon Diseases Subtypes </font>](https://ieeexplore.ieee.org/abstract/document/10229145)  
 **<font size=3> Kai-Ni Wang</font>** <font size=3>, Shuaishuai Zhuang, Juzheng Miao, Yang Chen, Jie Hua, Guang-Quan Zhou, Xiaopu He, Shuo Li</font>  
-*<font size=3> IEEE Journal of Biomedical and Health Informatics</font>* **<font size=3>(JBHI) </font>** <font size=3>, 2023</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/AFACNet)  
+*<font size=3> IEEE Journal of Biomedical and Health Informatics</font>* **<font size=3>(JBHI) </font>** <font size=3>, 2023</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/AFACNet) 😻 
 
 [<font size=3> DLGNet: A dual-branch lesion-aware network with the supervised Gaussian Mixture model for colon lesions classification in colonoscopy images </font>](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000920)  
 **<font size=3> Kai-Ni Wang</font>** <font size=3>, Shuaishuai Zhuang, Qi-Yong Ran, Ping Zhou, Jie Hua, Guang-Quan Zhou, Xiaopu He</font>  
-*<font size=3> Medical Image Analysis</font>* **<font size=3>(MedIA) </font>** <font size=3>, 2023</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/DLGNet)  
+*<font size=3> Medical Image Analysis</font>* **<font size=3>(MedIA) </font>** <font size=3>, 2023</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/DLGNet)  😻
 
 [<font size=3> Ffcnet: Fourier transform-based frequency learning and complex convolutional network for colon disease classification </font>](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_8)  
 **<font size=3> Kai-Ni Wang</font>** <font size=3>, Yuting He, Shuaishuai Zhuang, Juzheng Miao, Xiaopu He, Ping Zhou, Guanyu Yang, Guang-Quan Zhou, Shuo Li</font>  
-*<font size=3> Medical Image Computing and Computer Assisted Intervention</font>* **<font size=3>(MICCAI) </font>**  <font size=3>, 2022</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/FFCNet)
+*<font size=3> Medical Image Computing and Computer Assisted Intervention</font>* **<font size=3>(MICCAI) </font>**  <font size=3>, 2022</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/FFCNet) 😻
 
 [<font size=3> AWSnet: An auto-weighted supervision attention network for myocardial scar and edema segmentation in multi-sequence cardiac magnetic resonance images </font>](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_8)  
 **<font size=3> Kai-Ni Wang</font>** <font size=3>, Xin Yang, Juzheng Miao, Lei Li, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang, Dong Ni</font>  
-*<font size=3>Medical Image Analysis</font>* **<font size=3>(MedIA) </font>** <font size=3>, 2022</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/AWSnet/tree/master)
+*<font size=3>Medical Image Analysis</font>* **<font size=3>(MedIA) </font>** <font size=3>, 2022</font> [<font color='red'><font size=3>[code]</font></font>](https://github.com/soleilssss/AWSnet/tree/master) 😻
 
 Selected Publications
 ------
