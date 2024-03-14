@@ -12,7 +12,7 @@ redirect_from:
 Research Interests
 ======
 <font size=3>
-My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning. 
+My research interests are medical image analysis, computer vision, reinforcement learning and multimodal learning. Special focus is on developing advanced algorithms for medical image analysis to improve computer-aided diagnosis. Previous representative works include: 1) Automatic analysis system of colon endoscopic images for disease prevention, detection and diagnosis. 2) Automatic segmentation algorithm for cardiac scars and edema based on reinforcement learning.   <br>
 </font>
 
 <font size=3>
@@ -28,7 +28,6 @@ News
 - <font size=3> [08/2023] One paper was accepted by CBIM. </font>
 - <font size=3> [07/2023] One paper was accepted by JBHI. </font>
 - <font size=3> [03/2023] One paper was accepted by MedIA. </font>
-- <font size=3> [03/2023] One paper was accepted by JBHI. </font>
 - <font size=3> [09/2022] One paper was accepted by MICCAI. </font>
 - <font size=3> [04/2022] One paper was accepted by MedIA. </font>
 
@@ -38,7 +37,7 @@ Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations
 
 Kai-Ni Wang, Sheng-Xiao Li, Zhenyu Bu, Fu-Xing Zhao, Guang-Quan Zhou, Shou-Jun Zhou, Yang Chen  
 
-IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet)  \
+IEEE Journal of Biomedical and Health Informatics | [code](https://github.com/gardnerzhou/SBCNet) 
 
 
 
